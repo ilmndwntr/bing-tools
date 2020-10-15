@@ -1,1 +1,2 @@
-# bing_tools.py
+# Bing Rev IPs & Backlink
+tools untuk mempermudah mendapatkan weblist
